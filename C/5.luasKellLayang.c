@@ -1,5 +1,5 @@
 /*
-Nama Program  : volBolaKerct.c
+Nama Program  : luasKellLayang.c
 Deskripsi     : Menghitung dan menampilkan luas dan keliling bangun ruang layang - layang, rumus luas layang - layang = 1/2 * d1 * d2, rumus keliling layang - layang = 2 * (s1 + s2)
 Nama Pembuat  : Bintang Syafrian Rizal
 NIM           : 24060122120031
