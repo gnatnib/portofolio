@@ -1,6 +1,6 @@
 /*
 Nama Program  : volBolaKerct.c
-Deskripsi     : Menghitung dan menampilkan volume bola dan kerucut. Rumus volume kerucut = Vb= 4/3 * (Phi * r*r*r)
+Deskripsi     : Menghitung dan menampilkan volume bola dan kerucut. Rumus volume bola = Vb= 4/3 * (Phi * r*r*r), rumus volume kerucut = Vk = (Vb/2)
 Nama Pembuat  : Bintang Syafrian Rizal
 NIM           : 24060122120031
 Tanggal       : Kamis, 23 Februari 2023 21:10 WIB
